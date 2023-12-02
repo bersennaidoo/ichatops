@@ -1,3 +1,3 @@
 # IChatOps
 
-A slack bot for performing tasks for devops team members on slack.
+A slack bot implemented in golang for performing tasks for devops team members on slack.
