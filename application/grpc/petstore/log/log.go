@@ -1,3 +1,4 @@
+// Package log logs to opentelemetry span context.
 package log
 
 import (
@@ -12,7 +13,7 @@ import (
 	"go.opentelemetry.io/otel/trace"
 )
 
-// Needed for log to configure himself
+// Needed for log to configure logging.
 const (
 	Ldate = 1 << iota
 	Ltime

@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package petstore;
 
-option go_package = "github.com/bersennaidoo/ichatops/application/grpc/proto";
+option go_package = "github.com/bersennaidoo/ichatops/application/grpc/petstore/proto";
 
 import "google/type/date.proto";
 
